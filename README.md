@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # ✨ Github 업로드 딸깍! ✨
 
@@ -69,7 +69,7 @@ Developed by. **딸깍눌러조** ([HARMAN]python_project)
 
 ---
 
-<div align="center">
+<div align="left">
 
 Copyright ⓒ 2024 딸깍눌러조 All rights reserved.
 
