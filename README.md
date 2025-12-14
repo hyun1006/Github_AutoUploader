@@ -9,12 +9,11 @@
 
 <br>
 
-| Category | Stack |
-| :--- | :--- |
-| **APPLICATION** | ![Desktop App](https://img.shields.io/badge/Desktop_Application-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| **LANGUAGE** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **GUI LIB** | ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge) ![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-Theme-success?style=for-the-badge) |
-| **CORE** | ![GitPython](https://img.shields.io/badge/GitPython-Automation-F05032?style=for-the-badge&logo=git&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-API-orange?style=for-the-badge) |
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
+![GitPython](https://img.shields.io/badge/GitPython-Automation-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-API-orange?style=for-the-badge)
 
 <br>
 
@@ -63,13 +62,11 @@
 
 [![PDF Report](https://img.shields.io/badge/📄_PDF_Report-View_Document-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/seokhyun-hwang/files/blob/main/Github_AutoUploader.pdf)
 
-
-
 <br>
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-* **Language:** Python 3.x
+* **Language:** Python 3.0
 * **GUI:** Tkinter, ttkbootstrap
 * **Automation:** GitPython (Git Automation), Watchdog (File System Monitoring)
 * **Network:** Requests (Solved.ac API)
@@ -77,4 +74,4 @@
 <br>
 
 ---
-Copyright ⓒ 2024 딸깍눌러조 All rights reserved.
+Copyright ⓒ 2025 딸깍눌러조 All rights reserved.
